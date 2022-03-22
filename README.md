@@ -1,5 +1,5 @@
 # Drawing-App
-A simple drawing app through JavaScript
+A simple drawing app through JavaScript.
 
 You can also check here or enjoy here: https://drawing-app-khusamayasir.netlify.app/
 
